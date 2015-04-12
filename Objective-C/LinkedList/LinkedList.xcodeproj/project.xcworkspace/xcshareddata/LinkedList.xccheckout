@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A43C8A27-B7FC-4AF4-BAE6-C3001BE1C370</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC4AD49F1F8217C9A75B3D8745A9890000DC17BC</key>
+		<string>https://github.com/chronicqazxc/Algorithm.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Objective-C/LinkedList/LinkedList.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC4AD49F1F8217C9A75B3D8745A9890000DC17BC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chronicqazxc/Algorithm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC4AD49F1F8217C9A75B3D8745A9890000DC17BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC4AD49F1F8217C9A75B3D8745A9890000DC17BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Algorithm</string>
+		</dict>
+	</array>
+</dict>
+</plist>
