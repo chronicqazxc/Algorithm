@@ -11,6 +11,6 @@
 
 @interface LinkedListOperator : NSObject
 - (void)generateLinkedListWithArray:(NSMutableArray *)array;
-- (void)insertList:(NSNumber *)number;
+- (void)insertElement:(NSNumber *)number;
 - (void)printAllData;
 @end

@@ -43,7 +43,7 @@
     }
 }
 
-- (void)insertList:(NSNumber *)number {
+- (void)insertElement:(NSNumber *)number {
     LinkedList *t = self.head;
     while (t != nil) {
         if ([t.next.data compare:number] == NSOrderedDescending) {
